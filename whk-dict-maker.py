@@ -3,8 +3,6 @@
 
 import sys
 import os
-import socket
-import threading
 import math
 
 class MainCLS:
