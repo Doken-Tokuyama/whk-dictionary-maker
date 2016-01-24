@@ -1,4 +1,4 @@
-# whk-dictionary-maker
+# WHK Dictionary Maker
 Dictionary Maker
 
     whk@machine:~/$ python make_dict.py
