@@ -1,29 +1,29 @@
 # WHK Dictionary Maker
 Dictionary Maker
 
-    whk@machine:~/$ python make_dict.py
-    - Dictionary Maker 1.0 by WHK for pentesting purposes.
+    whk@machine:~/$ python whk-dict-maker.py 
+    - WHK Dictionary Maker 1.0, for pentesting purposes.
     - Enter max longitude of word [4]        : 
     - Use letters?                [Y/n]      : 
     - Use lowercase?              [Y/n]      : 
-    - Use uppercase?              [y/N]      : n
-    - Use numbers?                [Y/n]      : n
-    - Use special chars?          [y/N]      : n
+    - Use uppercase?              [y/N]      : 
+    - Use numbers?                [Y/n]      : 
+    - Use special chars?          [y/N]      : 
     - Filename of dictionary      [dict.txt] : 
-    - The file exists.You want to replace it? [y/N] : y
-    
+                                                           
       Summary                                              
       -----------------------------------------------------
     - Max longitude of word                  : 4
-    - Total number of characters to use      : 26
-    - Total of words                         : 475254
+    - Total number of characters to use      : 36
+    - Total of words                         : 1,727,604
     - Use letters                            : Yes
     - Use lowercase letters                  : Yes
     - Use uppercase letters                  : No
-    - Use numbers                            : No
+    - Use numbers                            : Yes
     - Use special chars                      : No
-    - Filename of dictionary                 : dict.txt (override)
+    - Filename of dictionary                 : dict.txt
+    - File size estimated of dictionary      : 8.19MB
       -----------------------------------------------------
     - You want to proceed?        [Y/n]      : 
-    - End!
+    - End!                                                 
     whk@machine:~/$
